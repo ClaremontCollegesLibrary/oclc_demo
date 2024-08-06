@@ -1,0 +1,6 @@
+authorizationUrl: https://oauth.oclc.org/auth
+baseUrl: https://discovery.api.oclc.org
+key: null
+scope: new-titles
+secret: null
+tokenUrl: https://oauth.oclc.org/token
